@@ -1,0 +1,10 @@
+/*! tailwindcss v4.1.18 | MIT License | https://tailwindcss.com */
+.container {
+  width: 100%;
+}
+.table {
+  display: table;
+}
+.text-center {
+  text-align: center;
+}
